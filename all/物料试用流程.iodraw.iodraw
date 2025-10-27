@@ -65,8 +65,8 @@
         <mxCell id="wdyJUemWGulIEKtxMrlH-14" value="风动仓储" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="560" y="380" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wdyJUemWGulIEKtxMrlH-17" value="风动生产部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="560" y="561" width="120" height="40" as="geometry" />
+        <mxCell id="wdyJUemWGulIEKtxMrlH-17" value="风动品质部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="560" y="566.48" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wdyJUemWGulIEKtxMrlH-18" value="风动仓储" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="560" y="476.48" width="120" height="40" as="geometry" />
