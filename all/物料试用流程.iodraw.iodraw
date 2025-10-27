@@ -287,7 +287,7 @@
         <mxCell id="EV9RekQB6zGhYZlfxi03-40" value="七远产品部/&lt;br&gt;风动工程部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="389" y="-66" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EV9RekQB6zGhYZlfxi03-42" value="1个工作日" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="EV9RekQB6zGhYZlfxi03-42" value="&lt;font color=&quot;#0000cc&quot; style=&quot;font-size: 14px;&quot;&gt;1个工作日&lt;/font&gt;" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="1040" width="20" height="120" as="geometry" />
         </mxCell>
       </root>
