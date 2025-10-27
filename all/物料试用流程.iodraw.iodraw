@@ -98,7 +98,7 @@
         </mxCell>
         <mxCell id="wdyJUemWGulIEKtxMrlH-47" value="OK" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" parent="wdyJUemWGulIEKtxMrlH-35" vertex="1" connectable="0">
           <mxGeometry x="-0.6633" y="1" relative="1" as="geometry">
-            <mxPoint x="-1" y="13.33" as="offset" />
+            <mxPoint x="-1" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wdyJUemWGulIEKtxMrlH-33" value="负责部门" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
