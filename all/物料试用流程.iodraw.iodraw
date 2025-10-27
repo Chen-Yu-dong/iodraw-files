@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="fPiIc1bT_vrV9lQdAexg" name="第 1 页">
-    <mxGraphModel dx="2868" dy="2645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="4780" dy="3629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -48,28 +48,28 @@
           <mxGeometry x="180" y="-146" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wdyJUemWGulIEKtxMrlH-2" value="七远产品部/&lt;br&gt;风动工程部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="560" y="40" width="120" height="40" as="geometry" />
+          <mxGeometry x="559" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wdyJUemWGulIEKtxMrlH-5" value="七远产品部/&lt;br&gt;风动工程部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="560" y="90" width="120" height="40" as="geometry" />
+          <mxGeometry x="559" y="90" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wdyJUemWGulIEKtxMrlH-6" value="风动采购部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="560" y="260" width="120" height="40" as="geometry" />
+          <mxGeometry x="559" y="260" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wdyJUemWGulIEKtxMrlH-9" value="风动工程部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="560" y="320" width="120" height="40" as="geometry" />
+          <mxGeometry x="559" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wdyJUemWGulIEKtxMrlH-13" value="风动PMC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="560" y="140" width="120" height="40" as="geometry" />
+          <mxGeometry x="559" y="140" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wdyJUemWGulIEKtxMrlH-14" value="风动仓储" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="560" y="380" width="120" height="40" as="geometry" />
+          <mxGeometry x="559" y="380" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wdyJUemWGulIEKtxMrlH-17" value="风动品质部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="560" y="566.48" width="120" height="40" as="geometry" />
+          <mxGeometry x="559" y="566.48" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wdyJUemWGulIEKtxMrlH-18" value="风动仓储" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="560" y="476.48" width="120" height="40" as="geometry" />
+          <mxGeometry x="559" y="476.48" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wdyJUemWGulIEKtxMrlH-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wdyJUemWGulIEKtxMrlH-22" target="EV9RekQB6zGhYZlfxi03-28" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -109,7 +109,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wdyJUemWGulIEKtxMrlH-33" value="负责部门" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="560" y="-40" width="120" height="40" as="geometry" />
+          <mxGeometry x="559" y="-40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EV9RekQB6zGhYZlfxi03-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wdyJUemWGulIEKtxMrlH-36" target="wdyJUemWGulIEKtxMrlH-55">
           <mxGeometry relative="1" as="geometry" />
@@ -149,10 +149,10 @@
           <mxGeometry x="160" y="1279" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wdyJUemWGulIEKtxMrlH-40" value="风动生产部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="560" y="650" width="120" height="40" as="geometry" />
+          <mxGeometry x="559" y="650" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wdyJUemWGulIEKtxMrlH-41" value="风动品质部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="560" y="800" width="120" height="40" as="geometry" />
+          <mxGeometry x="559" y="800" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wdyJUemWGulIEKtxMrlH-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wdyJUemWGulIEKtxMrlH-42" target="wdyJUemWGulIEKtxMrlH-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -169,19 +169,19 @@
           <mxGeometry x="160" y="720" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wdyJUemWGulIEKtxMrlH-51" value="风动品质部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="560" y="880" width="120" height="40" as="geometry" />
+          <mxGeometry x="559" y="880" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wdyJUemWGulIEKtxMrlH-54" value="风动工程部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="560" y="960" width="120" height="40" as="geometry" />
+          <mxGeometry x="559" y="960" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wdyJUemWGulIEKtxMrlH-61" value="风动工程部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="560" y="1040" width="120" height="40" as="geometry" />
+          <mxGeometry x="559" y="1040" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wdyJUemWGulIEKtxMrlH-62" value="风动品质部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="560" y="1120" width="120" height="40" as="geometry" />
+          <mxGeometry x="559" y="1120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wdyJUemWGulIEKtxMrlH-63" value="七远产品部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="560" y="1200" width="120" height="40" as="geometry" />
+          <mxGeometry x="559" y="1200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wdyJUemWGulIEKtxMrlH-67" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="180" y="1359" width="80" height="40" as="geometry" />
@@ -279,10 +279,10 @@
           <mxGeometry x="160" y="800" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EV9RekQB6zGhYZlfxi03-35" value="七远产品部负责人" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="1279" width="120" height="40" as="geometry" />
+          <mxGeometry x="559" y="1279" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EV9RekQB6zGhYZlfxi03-36" value="风动生产部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="720" width="120" height="40" as="geometry" />
+          <mxGeometry x="559" y="720" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
