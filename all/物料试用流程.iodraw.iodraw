@@ -218,7 +218,7 @@
             <mxPoint x="400" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EV9RekQB6zGhYZlfxi03-8" value="1天内" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EV9RekQB6zGhYZlfxi03-7">
+        <mxCell id="EV9RekQB6zGhYZlfxi03-8" value="1个工作日" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EV9RekQB6zGhYZlfxi03-7">
           <mxGeometry x="-0.0244" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
