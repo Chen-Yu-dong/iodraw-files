@@ -33,7 +33,7 @@
           <mxGeometry x="160" y="90" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GMHOuGUHc4P9kPz9qUzM-8" value="下单订购物料" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=2;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;perimeterSpacing=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="260" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wdyJUemWGulIEKtxMrlH-7" value="试用物料入库区分" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=2;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;perimeterSpacing=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="476.48" width="120" height="40" as="geometry" />
