@@ -109,7 +109,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wdyJUemWGulIEKtxMrlH-33" value="负责部门" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="389" y="-40" width="120" height="40" as="geometry" />
+          <mxGeometry x="389" y="-146" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EV9RekQB6zGhYZlfxi03-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wdyJUemWGulIEKtxMrlH-36" target="wdyJUemWGulIEKtxMrlH-55">
           <mxGeometry relative="1" as="geometry" />
@@ -283,6 +283,9 @@
         </mxCell>
         <mxCell id="EV9RekQB6zGhYZlfxi03-36" value="风动生产部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="389" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EV9RekQB6zGhYZlfxi03-40" value="七远产品部/&lt;br&gt;风动工程部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="399" y="24" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
