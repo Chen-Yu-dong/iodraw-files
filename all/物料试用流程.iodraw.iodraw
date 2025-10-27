@@ -131,6 +131,11 @@
         <mxCell id="wdyJUemWGulIEKtxMrlH-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wdyJUemWGulIEKtxMrlH-55" target="wdyJUemWGulIEKtxMrlH-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="EV9RekQB6zGhYZlfxi03-43" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wdyJUemWGulIEKtxMrlH-58">
+          <mxGeometry x="-0.0262" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wdyJUemWGulIEKtxMrlH-55" value="风动品质部&lt;br&gt;试用结论判定" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=2;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;perimeterSpacing=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="1119" width="120" height="40" as="geometry" />
         </mxCell>
