@@ -235,7 +235,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EV9RekQB6zGhYZlfxi03-17" value="1个工作日" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000CC;fontSize=14;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="224" y="247.0588235294117" as="geometry" />
+          <mxGeometry x="220" y="239.9988235294117" as="geometry" />
         </mxCell>
         <mxCell id="EV9RekQB6zGhYZlfxi03-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EV9RekQB6zGhYZlfxi03-21" target="wdyJUemWGulIEKtxMrlH-7">
           <mxGeometry relative="1" as="geometry" />
@@ -285,7 +285,7 @@
           <mxGeometry x="389" y="720" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EV9RekQB6zGhYZlfxi03-40" value="七远产品部/&lt;br&gt;风动工程部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="399" y="24" width="120" height="40" as="geometry" />
+          <mxGeometry x="389" y="-66" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
