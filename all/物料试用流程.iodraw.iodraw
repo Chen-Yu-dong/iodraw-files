@@ -301,17 +301,11 @@
         <mxCell id="EV9RekQB6zGhYZlfxi03-47" value="试用结论发布" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=2;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;perimeterSpacing=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="1360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EV9RekQB6zGhYZlfxi03-48" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="1220" as="sourcePoint" />
-            <mxPoint x="390" y="1170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="EV9RekQB6zGhYZlfxi03-50" value="七远产品部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="389" y="1199" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EV9RekQB6zGhYZlfxi03-51" value="1个工作日" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#0000CC;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="1265.363636363636" as="geometry" />
+          <mxGeometry x="220" y="1340.0036363636361" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
