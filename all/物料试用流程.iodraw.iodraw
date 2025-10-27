@@ -39,10 +39,15 @@
         <mxCell id="GMHOuGUHc4P9kPz9qUzM-4" value="填写生产注意事项" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=2;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;perimeterSpacing=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="10" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wdyJUemWGulIEKtxMrlH-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+        <mxCell id="wdyJUemWGulIEKtxMrlH-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GMHOuGUHc4P9kPz9qUzM-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="560" as="targetPoint" />
             <mxPoint x="220" y="480.00000000000045" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="70" y="440" />
+              <mxPoint x="221" y="440" />
+              <mxPoint x="221" y="560" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wdyJUemWGulIEKtxMrlH-30" value="OK" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" parent="wdyJUemWGulIEKtxMrlH-27" vertex="1" connectable="0">
