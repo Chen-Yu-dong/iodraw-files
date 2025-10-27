@@ -137,7 +137,7 @@
         <mxCell id="wdyJUemWGulIEKtxMrlH-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wdyJUemWGulIEKtxMrlH-57" target="wdyJUemWGulIEKtxMrlH-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EV9RekQB6zGhYZlfxi03-46" value="1个工作日" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wdyJUemWGulIEKtxMrlH-60">
+        <mxCell id="EV9RekQB6zGhYZlfxi03-46" value="1个工作日" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="wdyJUemWGulIEKtxMrlH-60">
           <mxGeometry x="-0.169" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
