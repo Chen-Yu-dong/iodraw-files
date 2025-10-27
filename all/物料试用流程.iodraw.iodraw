@@ -189,7 +189,7 @@
           <mxGeometry x="389" y="1120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wdyJUemWGulIEKtxMrlH-63" value="七远产品部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="389" y="1200" width="120" height="40" as="geometry" />
+          <mxGeometry x="389" y="1360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wdyJUemWGulIEKtxMrlH-67" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="180" y="1440" width="80" height="40" as="geometry" />
@@ -306,6 +306,9 @@
             <mxPoint x="340" y="1220" as="sourcePoint" />
             <mxPoint x="390" y="1170" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EV9RekQB6zGhYZlfxi03-50" value="七远产品部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="399" y="1370" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
