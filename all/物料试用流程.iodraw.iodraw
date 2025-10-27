@@ -137,7 +137,7 @@
         <mxCell id="wdyJUemWGulIEKtxMrlH-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wdyJUemWGulIEKtxMrlH-57" target="wdyJUemWGulIEKtxMrlH-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EV9RekQB6zGhYZlfxi03-46" value="1个工作日" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="wdyJUemWGulIEKtxMrlH-60">
+        <mxCell id="EV9RekQB6zGhYZlfxi03-46" value="1个工作日" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#0000CC;" vertex="1" connectable="0" parent="wdyJUemWGulIEKtxMrlH-60">
           <mxGeometry x="-0.169" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -309,6 +309,9 @@
         </mxCell>
         <mxCell id="EV9RekQB6zGhYZlfxi03-50" value="七远产品部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="389" y="1199" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EV9RekQB6zGhYZlfxi03-51" value="1个工作日" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#0000CC;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="1265.363636363636" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
